@@ -1,0 +1,2 @@
+# 9_sinif_PythonEgitimi
+9. sınıf öğrenciler için Python eğitim kampı
